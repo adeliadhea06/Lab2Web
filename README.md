@@ -40,7 +40,7 @@ Kelas : TI.22.A.1
 
 
 3. Menambahkan Inline CSS
-   Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+   Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
    ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/4d34a678-4f81-4418-8b3f-8c74fb65f370)
 
@@ -54,7 +54,7 @@ Kelas : TI.22.A.1
 
    ![Screenshot (278)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/50e8a03e-6a2f-4c5b-b415-e21f547f3952)
 
-   Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+   Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
 
    ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/c1aa3214-5fe1-4df2-b64b-fbf30a428be1)
 
@@ -86,7 +86,7 @@ Kelas : TI.22.A.1
 
    ![Screenshot (287)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/235eac80-3945-4a87-8f46-f6156dbec952)
 
-   Pada contoh ini, terdapat elemen " <h2> dengan class "title" " dan elemen <p> dengan class "text". Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk class "title" dan "text". Aturan tersebut mengubah properti "color" pada elemen dengan class tersebut. Anda dapat mengubah nilai properti "color" pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada judul (h2) dan paragraf (p) dalam hal warna teks.
+   Pada contoh ini, terdapat elemen `<h2> dengan class "title"` dan elemen `<p> dengan class "text"`. Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk class `"title" dan "text"`. Aturan tersebut mengubah properti `"color"` pada elemen dengan class tersebut. Anda dapat mengubah nilai properti `"color"` pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada judul `(h2) dan paragraf (p)` dalam hal warna teks.
 
 3. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
@@ -100,7 +100,7 @@ Kelas : TI.22.A.1
 
    Jadi yang terpanggil adalah CSS INLINE karena memiliki prioritas tinggi dibanding CSS deklarasi lainnya.
    
-7. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+7. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
    ![Screenshot (288)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/c94e52ae-a092-4d9b-8225-e6d08bc45bc1)
 
