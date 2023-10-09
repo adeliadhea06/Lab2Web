@@ -107,6 +107,7 @@ Kelas : TI.22.A.1
 Yang terpanggil di browser adalah ID karena ID bersifat unik berbeda dengan Class. Class bisa digunakan banyak sementara ID hanya tertentu saja itu kenapa ID unik dan yang terpanggil di browser adalah ID.
 
 
+## Sekian, Terima Kasih
 
 
 
