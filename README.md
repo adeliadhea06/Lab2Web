@@ -75,16 +75,16 @@ Kelas : TI.22.A.1
 
 6. Lakukan validasi dokumen css dengan mengakses https://jigsaw.w3.org/css-validator/
 
-   ![Screenshot (284)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/72047264-5b9d-41ce-8cec-693b311f8e49)
+   ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/1c232d5b-73c7-48ac-a659-2fc893c45c56)
 
 
 ### Pertanyaan dan tugas
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-   ![Screenshot (285)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/0f17e410-0481-4ffc-8f4e-58d3a18fb125)
+   ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/61a1ef5e-7b89-4178-b416-9c6946fb89aa)
 
-   ![Screenshot (287)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/235eac80-3945-4a87-8f46-f6156dbec952)
+   ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/a0d74e37-3261-48ce-9668-9b8c38d2821c)
 
    Pada contoh ini, terdapat elemen `<h2> dengan class "title"` dan elemen `<p> dengan class "text"`. Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk class `"title" dan "text"`. Aturan tersebut mengubah properti `"color"` pada elemen dengan class tersebut. Anda dapat mengubah nilai properti `"color"` pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada judul `(h2) dan paragraf (p)` dalam hal warna teks.
 
@@ -102,7 +102,7 @@ Kelas : TI.22.A.1
    
 7. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
-   ![Screenshot (288)](https://github.com/adeliadhea06/Lab2Web/assets/115794875/c94e52ae-a092-4d9b-8225-e6d08bc45bc1)
+   ![image](https://github.com/adeliadhea06/Lab2Web/assets/115794875/2a8ee6fa-c954-440c-be4c-e287e6a038e0)
 
 Yang terpanggil di browser adalah ID karena ID bersifat unik berbeda dengan Class. Class bisa digunakan banyak sementara ID hanya tertentu saja itu kenapa ID unik dan yang terpanggil di browser adalah ID.
 
